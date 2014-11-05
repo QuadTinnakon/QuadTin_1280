@@ -1,6 +1,10 @@
 Quad_1280
 =========
 
+Video
+
+http://www.youtube.com/watch?v=8aaf6ilGapU&list=UUK8SdBKqjdXghqlJf3-sZaQ
+
 //Write by tinnakon ,  TKquadrotor email tinnakon_za@hotmail.com
 
 //23/12/55  write pid  Flight Modes  1.Stabilize  2.Aero and filter romote
